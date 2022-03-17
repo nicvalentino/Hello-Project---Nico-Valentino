@@ -1,3 +1,2 @@
-# WGTIK
+# Hello Project - Nico Valentino
 Wawasan Global TIK
-Hello Project - Nico Valentino
